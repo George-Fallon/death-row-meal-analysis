@@ -69,7 +69,7 @@ That said, I was a little gutted to have to leave out some of the potentially in
 
 ####  Project Preview
 
-### 📊 Tableau Dashboard — Full View  
+#### SceenShots 
 ![raw_data_screenshot](https://github.com/user-attachments/assets/815877fd-ceb1-4cbb-97f1-4bccc7288b8b)
 
 ![Dashboard Full View] ![full_dashboard](https://github.com/user-attachments/assets/605eef80-23db-412c-ac81-4b9afb4b56b0)
