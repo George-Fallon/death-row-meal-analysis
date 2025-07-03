@@ -3,20 +3,20 @@ A data analysis project uncovering trends in 500 death row inmates' final meal r
 
 # Death Row Meal Request Analysis
 
-## 📖 Project Overview
+##  Project Overview
 This project explores trends and patterns in last meal requests from US death row inmates. Using a publicly sourced dataset of recorded meal requests, I aimed to uncover which types of meals were most commonly requested, how preferences shifted over time, and identify notable years with unusual meal trends or refusal rates.
 
-## 📚 Data Source
+##  Data Source
 The data for this project was sourced from the publicly available dataset on **Intro to Statistics**:  
 [https://introstat.weebly.com/death-row-meals.html](https://introstat.weebly.com/death-row-meals.html)
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
  **Excel** - for handling raw data and basic data cleaning
 - **PostgreSQL** — for advanced data cleaning, categorisation, and analysis
 - **Tableau** — for building interactive dashboards and data visualisation
 - **CSV files** — for storing query results and transferring data between tools
 
-## 📈 Project Process
+##  Project Process
 1. **Data Cleaning**
    - Removed irrelevant or duplicate entries
    - Corrected incorrect year values in the dataset
@@ -45,28 +45,33 @@ The data for this project was sourced from the publicly available dataset on **I
      - Trends comparing Fried Food vs Desserts
      - Refusal rates over time
 
-## 📊 Key Insights
+##  Key Insights
 - Desserts saw a notable rise in popularity after 2000.
 - 2013 had the highest refusal rate of any recorded year.
 - Fried Food and Desserts consistently outperformed other categories in requests.
 - The most popular category overall was 'Main Meal'.
 
-## 📦 Project Deliverables
+##  Project Deliverables
 - Cleaned CSV data files (`/data`)
-- SQL query scripts (`/sql`)
-- Tableau dashboard packaged workbook (`/dashboard`)
-- Dashboard screenshots (`/dashboard/screenshots`)
+- SQL query scripts (`/Queries`)
+- Tableau dashboard packaged workbook 
+- Dashboard screenshots (find attached at the bottle of the README file)
 - This README file summarising the full project workflow and findings
 
-## 🔍 Future Improvements
+##  Future Improvements
 - Incorporate additional data like inmate demographics, state details, or execution type (if available)
 - Build a live PostgreSQL-Tableau connection to allow dynamic dashboards without manual CSV exports
 - Add interactive filters by category or year on the dashboard for deeper exploration
 
-## 📸 Project Preview
+##  Project Preview
 
 ### 📊 Tableau Dashboard — Full View  
+![raw_data_screenshot](https://github.com/user-attachments/assets/815877fd-ceb1-4cbb-97f1-4bccc7288b8b)
+
 ![Dashboard Full View] ![full_dashboard](https://github.com/user-attachments/assets/605eef80-23db-412c-ac81-4b9afb4b56b0)
+
+
+
 
 
 
